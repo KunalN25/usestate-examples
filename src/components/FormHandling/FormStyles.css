@@ -1,0 +1,19 @@
+.form-container {
+    margin-left: 14%;
+    margin-top: 3%;
+}
+
+.form-input {
+    margin-top: 1rem;
+}
+
+/* .select-gender {
+    margin-top: 1rem;
+} */
+.submit-btn {
+    padding: 0.5rem;
+}
+
+label {
+    margin-right: 0.4rem;
+}
